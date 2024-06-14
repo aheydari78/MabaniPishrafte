@@ -3,6 +3,7 @@ public class MashinTest {
     class mashin{
         boolean ayamashinroshanast;
         boolean ayadarbazast;
+        String mark;
 
 
         void roshan(){
